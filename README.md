@@ -1,5 +1,5 @@
 # Brainrust
-A braingfuck interpreter written in Rust.
+A Brainf*ck interpreter written in Rust.
 
 ### Roadmap:
 - [X] Brainfuck interpreter working.
